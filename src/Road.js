@@ -4,7 +4,6 @@ import toy from '../src/assets/img/toy.png'
 import './responsive.css'
 import Header from './components/Header';
 import Footer from './components/Footer';
-import React  from 'react';
 
 function RoadMap() {
     return (

@@ -1,6 +1,5 @@
 import { Container } from "react-bootstrap";
 import './App.css';
-import React  from 'react';
 
 function Lunch() {
     return <div className='background_site height'>

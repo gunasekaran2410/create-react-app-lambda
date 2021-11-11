@@ -3,8 +3,6 @@ import { Container, Row, Col } from 'react-bootstrap';
 import './App.css';
 import Footer from './components/Footer';
 import Header from './components/Header';
-import React  from 'react';
-
 import './responsive.css'
 function Faq() {
     return (
